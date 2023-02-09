@@ -5,6 +5,7 @@ const LandingPage = () => {
         <div>
             <div>LandingPage</div>
             <button type="button">Some Button</button>
+            <button type="button">Some other Button</button>
         </div>
     )
 }
